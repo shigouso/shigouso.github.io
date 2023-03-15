@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+html{
+    font-family: 'Acme', sans-serif;
+}
+body{
+    background-color: darkturquoise;
+    }
+
+#no1{
+     clear: both;
+}
+#textp{
+    font-size: 22px; 
+    width: 40%;
+    margin-left: 29%;
+    text-align: center;
+}
+
+#parrafo1{
+    font-size: 20px;
+    text-align: center;
+}
+.no{
+    width: 18%;
+    margin-left: 8px; 
+    padding: 5px; 
+    display: inline-block;
+    border-style: inset;
+    background-color: cornflowerblue;
+    border-color: cornflowerblue; 
+    border-radius: 10px;
+}
+#admin{
+    width: 100%;
+    height: 150px;
+    display:inline-block;
+    float: left;
+}
+#tics{
+    width: 100%;
+    height: 150px;
+    display:inline-block;
+    float:left;
+    border: 12px;
+}
+#comunicacion{
+    width: 100%;
+    height: 150px;
+    display:inline-block;
+    float: left;
+    }
+#turismo{
+    width: 85%;
+     padding-left: 20px;
+    height: 150px;
+    display:inline-block;
+    float: left;
+    }
+#conta{
+    width: 100%;
+    padding-left: 5px;
+    height: 150px;
+    display:inline-block;
+    float: left;
+    }
+}
+#figcap{
+    float: left;
+    
+}
+.text0{
+    display: inline-block; 
+    float: left; 
+    text-align: center;
+    font-size: 18px;
+    border: 12px purple;
+    border-style: double;
+    border-left-color: blueviolet;
+    border-right-color: blueviolet;
+    margin: 1em;
+    padding: 3px;
+    width: 45%;
+    
+    
+    
+}
+.text1{
+    display: inline-block; 
+    float: left; 
+    text-align: center;
+    font-size: 18px;
+    border: 12px white;
+    border-style: double;
+    border-left-color: darkblue;
+    border-right-color: darkblue;
+    margin: 1em;
+    padding: 3px;
+    width: 45%;
+}
+#text2{
+    display: inline-block; 
+    float: none; 
+    text-align: center;
+    font-size: 18px;
+    border: 12px black;
+    border-style: double;
+    margin: 1em;
+    border-left-color: darkgrey;
+    border-right-color: darkgrey;
+    padding: 3px;
+    width: 45%;
+    transform: translateX(50%)
+}

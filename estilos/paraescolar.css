@@ -1,0 +1,64 @@
+h1{
+    background-color: cadetblue;
+    text-align:center; 
+    display:block;
+    text-align: center;
+    clear: both;
+    width: 100%; 
+    font-size: 50px;
+    
+}
+#titulo{
+    background-color: cadetblue;
+    font-style: oblique;
+    display: inline-block; 
+    padding: 12px;
+    margin-left: 25%; 
+    font-size: 30px;
+}
+#tema{
+    font-size: 30px; 
+    width: 50%;
+    transform: translateX(50%);
+    background-color: blueviolet;
+    color:aliceblue; 
+    text-align: center;
+}
+div{
+    border: 10px red; 
+    border-style:ridge;
+    float: left;
+    padding: 15px;
+    width: 40%;  
+    height: 520px; 
+    margin: 20px;
+    display:inline-block;
+    text-align:justify;
+    font-size: 23px; 
+}
+#patio{
+    width:60%; 
+    padding-left: 23px; 
+    margin-left: 15%;
+    
+}
+
+#div1{
+    border: 10px red; 
+    border-style:ridge;
+    float: left;
+    padding: 15px;
+    width: 40%;  
+    height: 520px; 
+    margin: 20px;
+    display:inline-block;
+    text-align:justify;
+    font-size: 23px; 
+}
+#patio1{
+    width:60%; 
+    padding-left: 23px; 
+    margin-left: 15%;
+    
+}
+

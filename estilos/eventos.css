@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
+
+#fondo1{
+    background-image:url(jaguarimg.avif);
+}
+
+#text{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 25px;
+    color: azure;
+    background-color:  firebrick;
+    width: 100%; 
+    text-align:center;
+}
+#m{
+    text-align: center;
+}
+#cuadro1{
+    border: 12px;
+    border-radius: 10px; 
+    background-color: rgba(4, 234, 196, 0.988);
+    font-size: 35px;
+    float: left;
+    margin-left: 60px;
+    width: 30%;
+    transform: translateY(20%);
+    
+}
+#cuadro2{
+    display: inline-block;
+    width: 40%;
+    transform: translateX(50%);
+}
+
+#text2{
+    background-color: firebrick;
+    color: aliceblue;
+    font-size: 39px;
+    width: 100%;
+    text-align: center;
+
+}
+
+#sub{
+    font-size: 25px;
+    margin: 22px;
+    background-color:bisque;
+    display: flex;
+    border:12px;
+    border-radius: 10px; 
+    border-style: groove;
+    border-color:crimson;
+}
+#image1{
+    
+    border:12px;
+    border-radius: 10px; 
+    border-style: groove;
+    border-color:aquamarine;
+    padding: 12px;;
+}

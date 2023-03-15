@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@300&family=Josefin+Sans:ital,wght@1,300&display=swap');
+html{
+    font-family: 'Genos', sans-serif;
+    
+
+}
+h1{
+    background-color: cadetblue;
+    text-align:center; 
+    display:block;
+    text-align: center;
+    clear: both;
+    width: 100%; 
+    font-size: 50px;
+    
+}
+h2{
+    background-color: cadetblue;
+    font-style: oblique;
+    display: inline-block; 
+    padding: 12px;
+    margin-left: 25%; 
+    font-size: 30px;
+}
+p{
+    font-size: 22px; 
+    border: 8px red; 
+    border-style: dashed;
+    text-align:justify;
+    display: inline-block; 
+    padding: 15px;
+    width: 90%;  
+    height: 295px; 
+    margin: 30px;
+}
+
+#patio{
+    float: right;
+    display: inline-block; 
+    width:  30%; 
+    padding-left: 23px; 
+    
+}
+#escolta{
+    float: left;
+    display: inline-block;
+    width:  30%; 
+    padding-right: 23px; 
+}
+

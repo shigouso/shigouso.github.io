@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+body{
+    background-color: cornflowerblue;
+}
+#text1{
+    float:left;
+    width: 80%;
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    transform: translateX(10%);
+}
+
+#img1{
+    display: "flex";
+}
+#text2{
+    text-align: center;
+    font-size: 2em;
+}
+#bacho{
+    font-size: 35px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+#blanco{
+    color: azure;
+    font-size: 30px;
+    text-align: center;
+}
